@@ -3,9 +3,13 @@ Below is a *meme* I made with the **R package** {https://cran.r-project.org/web/
 
 ![](my_meme.png)
 
+## Motivation
+> #### The meme reflects my feelings toward:
+>
+> - Analysing *p-values* = a nightmare 
+> - Creating pie charts = a piece of cake  
 
-
-### `R code` for my meme creation:
+### `R` code for my meme creation:
 ```r
 library(magick)
 
