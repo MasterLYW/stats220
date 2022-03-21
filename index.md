@@ -1,13 +1,18 @@
 # MEME...
-Below is a *meme* I made with the **R package** {https://cran.r-project.org/web/packages/magick/vignettes/intro.html}.
+Below is a *meme* I made with the **R package** ![magick]{https://cran.r-project.org/web/packages/magick/vignettes/intro.html}.
 
 ![](my_meme.png)
 
 ## Motivation
-> #### The meme reflects my feelings toward:
+> #### The meme reflects my feelings toward certain aspects of stats where I find:
 >
 > - Analysing *p-values* = a nightmare 
 > - Creating pie charts = a piece of cake  
+> 
+> #### The meme is **new** such that:
+> It is a variation of the old-school meme format (pic on the left & text on the right) in terms of:
+>   1. font 
+>   2. colour
 
 ### `R` code for my meme creation:
 ```r
