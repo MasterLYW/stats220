@@ -1,5 +1,5 @@
 # MEME...
-Below is a *meme* I made with the **R package** ![magick](https://cran.r-project.org/web/packages/magick/vignettes/intro.html).
+Below is a *meme* I made with the **R package** [magick]{https://cran.r-project.org/web/packages/magick/vignettes/intro.html}.
 
 ![](my_meme.png)
 
