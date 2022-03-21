@@ -3,7 +3,9 @@ Below is a *meme* I made with the **R package** {https://cran.r-project.org/web/
 
 ![](my_meme.png)
 
-`R code` for my meme creation:
+
+
+### `R code` for my meme creation:
 ```r
 library(magick)
 
