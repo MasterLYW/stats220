@@ -11,8 +11,9 @@ Below is a *meme* I made with the **R package** ![magick]{https://cran.r-project
 > 
 > #### The meme is **new** such that:
 > It is a variation of the old-school meme format (pic on the left & text on the right) in terms of:
->   1. font 
->   2. colour
+> 1. font 
+> 2. text/pic arrangement
+> 3. "the message" comes from me 
 
 ### `R` code for my meme creation:
 ```r
